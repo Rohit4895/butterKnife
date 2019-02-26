@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "428934532224",
+    "firebase_url": "https://butterknifeexample-36aa4.firebaseio.com",
+    "project_id": "butterknifeexample-36aa4",
+    "storage_bucket": "butterknifeexample-36aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428934532224:android:d1f80e9b3c72bfa6",
+        "android_client_info": {
+          "package_name": "com.example.butterknifeexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428934532224-2o74btv33qsaap6s1ueghl3g7vdd7jdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.butterknifeexample",
+            "certificate_hash": "ade29276011c2c73a1c1a48d33b20bc67eed6899"
+          }
+        },
+        {
+          "client_id": "428934532224-s314aesk1rt3mm28hhqism9b7sfblcgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhS7M_U0kKyHeOFLFGXQ76kVN_MC4EHuY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428934532224-s314aesk1rt3mm28hhqism9b7sfblcgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
